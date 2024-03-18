@@ -23,6 +23,7 @@
   --spanish-gray: hsl(0, 0%, 60%);
   --sonic-silver: hsl(0, 0%, 47%);
   --eerie-black: hsl(0, 0%, 13%);
+  --sonic-blue: hsl(168.75, 64.65%, 61.18%);
   --salmon-pink: hsl(353, 100%, 78%);
   --sandy-brown: hsl(29, 90%, 65%);
   --bittersweet: hsl(0, 100%, 70%);
@@ -851,7 +852,7 @@ body::-webkit-scrollbar-thumb:hover { background: hsl(0, 0%, 70%); }
 }
 
 .banner-subtitle {
-  color: var(--salmon-pink);
+  color: var(--sonic-blue);
   font-size: var(--fs-7);
   font-weight: var(--weight-500);
   text-transform: capitalize;
@@ -870,7 +871,7 @@ body::-webkit-scrollbar-thumb:hover { background: hsl(0, 0%, 70%); }
 .banner-text { display: none; }
 
 .banner-btn {
-  background: var(--salmon-pink);
+  background: var(--sonic-blue);
   color: var(--white);
   width: -webkit-max-content;
   width: -moz-max-content;
@@ -1306,7 +1307,7 @@ body::-webkit-scrollbar-thumb:hover { background: hsl(0, 0%, 70%); }
 .product-minimal .price {
   font-size: var(--fs-7);
   font-weight: var(--weight-700);
-  color: var(--salmon-pink);
+  color: var(--sonic-blue);
 }
 
 .product-minimal .price-box del {
@@ -1402,7 +1403,7 @@ body::-webkit-scrollbar-thumb:hover { background: hsl(0, 0%, 70%); }
 }
 
 .product-featured .price {
-  color: var(--salmon-pink);
+  color: var(--sonic-blue);
   font-weight: var(--weight-700);
 }
 
@@ -1412,7 +1413,7 @@ body::-webkit-scrollbar-thumb:hover { background: hsl(0, 0%, 70%); }
 }
 
 .product-featured .add-cart-btn {
-  background: var(--salmon-pink);
+  background: var(--sonic-blue);
   padding: 8px 15px;
   color: var(--white);
   font-weight: var(--fs-9);
@@ -1468,7 +1469,7 @@ body::-webkit-scrollbar-thumb:hover { background: hsl(0, 0%, 70%); }
   left: 3px;
   height: 4px;
   width: 40%;
-  background: var(--salmon-pink);
+  background: var(--sonic-blue);
   -webkit-border-radius: 4px;
           border-radius: 4px;
 }
@@ -1637,7 +1638,7 @@ body::-webkit-scrollbar-thumb:hover { background: hsl(0, 0%, 70%); }
 .product-grid .showcase-content { padding: 15px 20px 0; }
 
 .product-grid .showcase-category {
-  color: var(--salmon-pink);
+  color: var(--sonic-blue);
   font-size: var(--fs-9);
   font-weight: var(--weight-500);
   text-transform: uppercase;
@@ -1923,7 +1924,7 @@ body::-webkit-scrollbar-thumb:hover { background: hsl(0, 0%, 70%); }
   width: -webkit-max-content;
   width: -moz-max-content;
   width: max-content;
-  color: var(--salmon-pink);
+  color: var(--sonic-blue);
   font-size: var(--fs-8);
 }
 
